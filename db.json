@@ -1,0 +1,34 @@
+{
+    "id": 890,
+    "sizes": [
+        {"id": 1, "name": "Extra Small", "abbreviation": "XS", "quantity": 1},
+        {"id": 2, "name": "Small", "abbreviation": "S", "quantity": 1},
+        {"id": 3, "name": "Medium", "abbreviation": "M", "quantity": 1},
+        {"id": 4, "name": "Large", "abbreviation": "L", "quantity": 1},
+        {"id": 5, "name": "Extra Large", "abbreviation": "XL", "quantity": 1}
+    ],
+    "colors": [
+        {"id": 1, "name": "Black", "abbreviation": "B", "quantity": 1}
+    ],
+    "name": "The Special Pantsuit",
+    "description": "This is the coolest pantsuit you've ever seen. Fits like a dream. Wear this everywhere, and nowhere.",
+    "bullets": [
+    "So baggy and yet hugs all the right places",
+    "Big hidden pockets",
+    "Front zipper so you can zip yourself in",
+    "Silk material, reinforced stitching"
+    ],
+    "images": [
+        {"order": 0, "url": "imgs/20191114/jumpsuit-1.jpg"},
+        {"order": 1, "url": "imgs/20191114/jumpsuit-2.jpg"},
+        {"order": 2, "url": "imgs/20191114/jumpsuit-3.jpg"},
+        {"order": 3, "url": "imgs/20191114/jumpsuit-4.jpg"},
+        {"order": 4, "url": "imgs/20191114/jumpsuit-5.jpg"}
+    ],
+    "materials": [
+    "silk"
+    ],
+    "price": 120,
+    "sizeInfo": "These are sized a little small. We advise ordering the next size up from what you normally wear.",
+    "materialInfo": "100% silk which feels very nice. These are meant to be warn slightly baggy so that they are comfortable. Zipper front with rolled up sleeves. Hip pockets on the front."
+}
